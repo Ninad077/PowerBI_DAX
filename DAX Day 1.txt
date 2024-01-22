@@ -1,0 +1,26 @@
+DAX (Data Analysis Expression)
+In power bi we write dax in three ways:
+New Measure: When you want single data or value (Total Sales, Profit, Unit sold). 
+
+New Column: When we want row by row calculation (Logical Function, Divide, Multiply, Add)
+
+New Table: When we want Multiple rows & Columns that time we create table (Group by, Summarize, Calendar, Rows)
+
+Quick Measure: In quick measure we don't need to write dax, we have to just drag and drop required field.
+
+Tasks to do:
+Total Unit Sales. 
+Average Profit.
+Min Sale Price.  
+Max Gross Sales. 
+
+what is the difference between Count and Countrows.
+Count counts the values while countrows counst the values with balnk and null rows.
+
+X functions (Sumx or (SumIf), Averagex or (AverageIf), Countx, Minx, Maxx) called as iterate functions.
+
+Tasks to do:
+Find Total profit when segment is Midmarket.
+Find Average Unit Sold when Discount band is Medium. 
+Find Min Gross Sales when Product is VTT.
+Find Max Manufacturing Price when year is 2014.
