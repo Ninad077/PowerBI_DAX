@@ -1,5 +1,11 @@
 Contents:
 
+DAX (Data Analysis Expression)
+Explicit measures
+Iteration (X)
+Calculate function
+Logical operators (AND, OR), IN
+IF, NESTEDIF, SWITCH, DIVIDE, ISERROR, Multiply, Subtract, LEN, LEFT, RIGHT, FIND, DATE Fns (TODAY, NOW)
 Column level measure
 Substitute()
 Replace()
