@@ -24,3 +24,29 @@ Find Total profit when segment is Midmarket.
 Find Average Unit Sold when Discount band is Medium. 
 Find Min Gross Sales when Product is VTT.
 Find Max Manufacturing Price when year is 2014.
+
+
+Column level measure
+Substitute()
+Replace()
+Table level measure
+Summarize()
+Group by()
+CurrentGroup()
+Calendar()
+Date()
+Format()
+Quarter()
+Year()
+Month()
+Calendarauto()
+Fiscal/Financial Year table
+Edate()
+Merge columns
+[& ,Concatenate(), Combinevalues()]
+Dynamic title
+[selectedvalue(), Concatenatex(9, Value()
+Isinscope() Iffiltered()
+Field parameter (Measure Slicer)
+Group (List, bins)
+Remove Filter(All())
