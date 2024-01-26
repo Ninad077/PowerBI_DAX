@@ -23,7 +23,7 @@ Calendarauto(),
 Fiscal/Financial Year table,
 Edate(),
 Merge columns [& ,Concatenate(), Combinevalues()],
-Dynamic title [selectedvalue(), Concatenatex(9, Value()]
+Dynamic title [selectedvalue(), Concatenatex(), Value()]
 Isinscope(),Iffiltered(),
 Field parameter [Measure Slicer],
 Group [List, bins],
