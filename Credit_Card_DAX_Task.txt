@@ -1,0 +1,53 @@
+You have a credit card dataset in "500000-CC-Records.zip" file.
+Write DAX Formulas for the below questions.
+
+1.Total Number of cards Issued By American Express
+
+#_of_cards_Issued_Barclays = CALCULATE(COUNT('500000 CC Records'[Issuing Bank]),'500000 CC Records'[Issuing Bank] = "American Express"
+
+2.Total Number of cards Issued By Bank of America
+
+
+3.Total Number of cards Issued By Citibank
+
+
+4.Total Number of cards Issued By Wells Fargo and Barclays
+
+
+5.Total Number of Visa cards Issued By Barclays
+
+
+6.Total Number of Master card cards Issued By Chase
+= cal(count(issingbank), cardtype full name = "Master Card", issuing bandk = "Chase")
+
+7.Total Number of Visa and Master card cards Issued By barclays and Chase
+
+
+
+8.Total Number of Diner Club International and Discover cards Issued By Diners Club and Discover bank
+
+
+
+9.Total Number of Visa and Master card cards Issued By barclays in 2010
+
+
+10.Total Number of cards Issued By JCB,USAA and PNC bank between 2010 to 2017
+
+
+
+11.Total Number of Visa cards Issued By JCB,USAA and PNC bank between 2007 to 2010
+12.Total Number of Master cards Issued By JCB,USAA and PNC bank between 2014 to 2017
+
+
+
+19.Total Number of cards Issued By JCB,USAA and PNC bank with Credit Limit more than 50000
+
+
+20.Total Number of Visa cards Issued By barclays,Citibank,chase bank with Credit Limit more than 100000
+
+21.Total Number of Visa and Master cards Issued By Wells fargo,American Express,Chase bank with Credit Limit less than 100000
+
+22.Total Number of Visa and Master cards Issued By Wells fargo,American Express,Chase bank with Credit Limit greater than 100000 and less than 150000
+
+
+
